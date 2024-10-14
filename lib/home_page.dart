@@ -170,6 +170,7 @@ class _HomePageState extends State<HomePage> {
                 offset: Offset(1.0, 1.0), // shadow direction: bottom right
               )
             ],
+            //
             borderRadius: BorderRadius.all(Radius.circular(20))),
         child: Column(
           children: [
