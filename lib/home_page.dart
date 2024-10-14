@@ -118,7 +118,7 @@ class _HomePageState extends State<HomePage> {
                           'Carrier Trends', (() {}))),
                   Expanded(
                       child: menuIcons(
-                          'assets/assesment.png', 'Assessment', (() {}))),
+                          'assets/assesment.png', 'Assesment', (() {}))),
                   Expanded(
                       child: menuIcons(
                           'assets/skills_icon.png', 'Popular Skills', (() {})))
